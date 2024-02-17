@@ -46,24 +46,24 @@ Para poder desarrollar esta práctica y para realizar modificaciones futuras es 
 
 1. Gerencia - RRHH
 
-![imagen8](./assets/ping1.PNG)
+![imagen8](./Assets/ping1.PNG)
 
 2. RRHH - Oficina A
 
-![imagen9](./assets/ping2.PNG)
+![imagen9](./Assets/ping2.PNG)
 
 3. Oficina C - Atención al Cliente
 
-![imagen10](./assets/ping3.PNG)
+![imagen10](./Assets/ping3.PNG)
 
 ## Captura de paquetes ARP/ICMP
 
 
 Demostración de captura de paquetes:
 
-![imagen11](./assets/captura.PNG)
+![imagen11](./Assets/captura.PNG)
 
 
 ## Topología final:
 
-![imagen12](./assets/topologia.PNG)
+![imagen12](./Assets/topologia.PNG)
