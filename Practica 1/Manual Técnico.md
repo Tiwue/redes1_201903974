@@ -15,55 +15,55 @@ Para poder desarrollar esta práctica y para realizar modificaciones futuras es 
 
 1. Gerencia:
 
-![imagen1](Practica 1/Assets/config1.PNG)
+![imagen1](./Assets/config1.PNG)
 
 2. Administración:
 
-![imagen2](Practica 1/Assets/config2.PNG)
+![imagen2](./Assets/config2.PNG)
 
 3. Atención al Cliente
 
-![imagen3](Practica 1/Assets/config3.PNG)
+![imagen3](./Assets/config3.PNG)
 
 4. Recursos Humanos
 
-![imagen4](Practica 1/Assets/config4.PNG)
+![imagen4](./Assets/config4.PNG)
 
 5. Oficina A
 
-![imagen5](Practica 1/Assets/config5.PNG)
+![imagen5](./Assets/config5.PNG)
 
 6. Oficina B
 
-![imagen6](Practica 1/Assets/config6.PNG)
+![imagen6](./Assets/config6.PNG)
 
 7. Oficina C
 
-![imagen7](Practica 1/Assets/config7.PNG)
+![imagen7](./Assets/config7.PNG)
 
 
 ## Pings
 
 1. Gerencia - RRHH
 
-![imagen8](Practica 1/Assets/ping1.PNG)
+![imagen8](./assets/ping1.PNG)
 
 2. RRHH - Oficina A
 
-![imagen9](Practica 1/Assets/ping2.PNG)
+![imagen9](./assets/ping2.PNG)
 
 3. Oficina C - Atención al Cliente
 
-![imagen10](Practica 1/Assets/ping3.PNG)
+![imagen10](./assets/ping3.PNG)
 
 ## Captura de paquetes ARP/ICMP
 
 
 Demostración de captura de paquetes:
 
-![imagen11](Practica 1/Assets/captura.PNG)
+![imagen11](./assets/captura.PNG)
 
 
 ## Topología final:
 
-![imagen12](Practica 1/Assets/topologia.PNG)
+![imagen12](./assets/topologia.PNG)
